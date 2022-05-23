@@ -1,0 +1,2 @@
+# EasyDiscord
+ DiscordJS made easy!
