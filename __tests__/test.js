@@ -1,8 +1,8 @@
 const { EasyClient, EasyCommand } = require("../lib/index");
 
 const client = new EasyClient({
-    token: 'OTE4MzU2MTMxNDk4MzE1Nzg2.GCEB9z.cKCm94yfJH2pbTc1FLzPHd5ZFjcmkbsigeOwlE',
-    guildId: '961333549133340732',
+    token: 'your_token',
+    guildId: 'your_guild',
     modules: [
         'moderation',
     ]
